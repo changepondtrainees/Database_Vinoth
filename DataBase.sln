@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{0766A7F2-9F70-43FF-9A33-EC53FE512C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{221E4ED3-8554-41EE-8D15-861033B7C701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLogic", "DataLogic\DataLogic.csproj", "{890B9754-1FF6-4962-B4B2-206ED4F3A9C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0766A7F2-9F70-43FF-9A33-EC53FE512C0C}.Debug|x86.ActiveCfg = Debug|x86
+		{0766A7F2-9F70-43FF-9A33-EC53FE512C0C}.Debug|x86.Build.0 = Debug|x86
+		{0766A7F2-9F70-43FF-9A33-EC53FE512C0C}.Release|x86.ActiveCfg = Release|x86
+		{0766A7F2-9F70-43FF-9A33-EC53FE512C0C}.Release|x86.Build.0 = Release|x86
+		{221E4ED3-8554-41EE-8D15-861033B7C701}.Debug|x86.ActiveCfg = Debug|x86
+		{221E4ED3-8554-41EE-8D15-861033B7C701}.Debug|x86.Build.0 = Debug|x86
+		{221E4ED3-8554-41EE-8D15-861033B7C701}.Release|x86.ActiveCfg = Release|x86
+		{221E4ED3-8554-41EE-8D15-861033B7C701}.Release|x86.Build.0 = Release|x86
+		{890B9754-1FF6-4962-B4B2-206ED4F3A9C9}.Debug|x86.ActiveCfg = Debug|x86
+		{890B9754-1FF6-4962-B4B2-206ED4F3A9C9}.Debug|x86.Build.0 = Debug|x86
+		{890B9754-1FF6-4962-B4B2-206ED4F3A9C9}.Release|x86.ActiveCfg = Release|x86
+		{890B9754-1FF6-4962-B4B2-206ED4F3A9C9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
